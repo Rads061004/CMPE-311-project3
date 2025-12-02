@@ -91,9 +91,7 @@ void taskButton() {
 }
 
 void taskMotorPWM() {
- 
 }
 
 void taskEmptyPWM() {
-
 }
